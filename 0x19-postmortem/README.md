@@ -1,4 +1,7 @@
-Postmortem
+**Postmortem**
+
+![IMMKT-153-illustration-for-postmortem-page](https://github.com/marthaakinlolu/alx-system_engineering-devops/assets/32547163/165df272-95ec-4ec6-b5bd-f0be83a1581f)
+
 
 Incident Postmortem: Database Outage
 
